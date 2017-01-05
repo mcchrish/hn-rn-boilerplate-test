@@ -1,13 +1,13 @@
 /*
- * HomePage Messages
+ * Header Messages
  *
- * This contains all the text for the HomePage component.
+ * This contains all the text for the Header component.
  */
 import { defineMessages } from 'react-intl';
 
 export default defineMessages({
   header: {
-    id: 'app.components.HomePage.header',
+    id: 'app.components.Header.header',
     defaultMessage: 'Hacker News',
   },
 });
